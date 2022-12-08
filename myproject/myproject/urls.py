@@ -21,4 +21,3 @@ urlpatterns = [
     path('',include('main.urls'))
 ]
 
-wrgefgwgf4ergf
